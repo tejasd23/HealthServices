@@ -1,8 +1,0 @@
-spring:
-  data:
-    mongodb:
-      uri: mongodb://localhost:27017/healthprovider-service
-  application:
-    name: healthprovider-service
-server:
-  port: 9091
